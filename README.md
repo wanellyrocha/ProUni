@@ -24,3 +24,4 @@ deve ser de até três salários mínimos por pessoa.
 Casos permissivos de sobreposição de bolsas:
 · bolsas suspensas com posterior renovação em período/ano diferentes;
 · bolsas canceladas com nova concessão posterior em período/ano diferentes.
+
