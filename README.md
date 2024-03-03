@@ -21,6 +21,7 @@ renda.
 Para concorrer às bolsas integrais o candidato deve ter renda familiar bruta mensal de até um
 salário mínimo e meio por pessoa. Para as bolsas parciais de 50%, a renda familiar bruta mensal
 deve ser de até três salários mínimos por pessoa.
+
 Casos permissivos de sobreposição de bolsas:
 · bolsas suspensas com posterior renovação em período/ano diferentes;
 · bolsas canceladas com nova concessão posterior em período/ano diferentes.
