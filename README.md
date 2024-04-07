@@ -1,5 +1,5 @@
 # ProUni
-Bolsas concedidas e perfil dos beneficiários do ProUni
+## Bolsas concedidas e perfil dos beneficiários do ProUni
 
 ProUni é o programa do Ministério da Educação, criado pela Lei nº 11.096, de 13 de janeiro de
 2005, que concede bolsas de estudo integrais e parciais de 50% em instituições privadas de
