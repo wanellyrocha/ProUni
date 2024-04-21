@@ -1,12 +1,11 @@
 # EM CONSTRUÇÃO
 
-# ProUni - Programa Universidade para Todos
-## Bolsas concedidas e perfil dos beneficiários do ProUni
-
 <div align="center">
-<img src="https://github.com/wanellyrocha/ProUni/assets/65083573/f964a9cf-8d81-451f-af0c-f89f71d74286" width="300px" />
+<img src="https://github.com/wanellyrocha/ProUni/assets/65083573/f964a9cf-8d81-451f-af0c-f89f71d74286" width="400px" />
 </div>
 
+# ProUni - Programa Universidade para Todos
+## Bolsas concedidas e perfil dos beneficiários do ProUni
 
 ProUni é o programa do Ministério da Educação, criado pela Lei nº 11.096, de 13 de janeiro de
 2005, que concede bolsas de estudo integrais e parciais de 50% em instituições privadas de
