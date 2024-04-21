@@ -1,4 +1,4 @@
-# ProUni
+# ProUni - Programa Universidade para Todos
 ## Bolsas concedidas e perfil dos beneficiários do ProUni
 
 ProUni é o programa do Ministério da Educação, criado pela Lei nº 11.096, de 13 de janeiro de
@@ -7,12 +7,17 @@ educação superior, em cursos de graduação e sequenciais de formação espec�
 brasileiros sem diploma de nível superior.
 Podem participar do Prouni os estudantes brasileiros que não possuam diploma de curso superior
 e que atendam a pelo menos uma das condições abaixo:
+
 · ter cursado o ensino médio completo em escola da rede pública;
+
 · ter cursado o ensino médio completo em escola da rede privada, na condição de bolsista
 integral da própria escola;
+
 · ter cursado o ensino médio parcialmente em escola da rede pública e parcialmente em
 escola da rede privada, na condição de bolsista integral da própria escola privada;
+
 · ser pessoa com deficiência;
+
 · ser professor da rede pública de ensino, no efetivo exercício do magistério da educação
 básica e integrando o quadro de pessoal permanente da instituição pública e concorrer a
 bolsas exclusivamente nos cursos de licenciatura. Nesses casos não há requisitos de
