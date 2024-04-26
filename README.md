@@ -1,4 +1,4 @@
-# EM CONSTRUÇÃO
+# EM CONSTRUÇÃO *
 
 <div align="center">
 <img src="https://github.com/wanellyrocha/ProUni/assets/65083573/f964a9cf-8d81-451f-af0c-f89f71d74286" width="400px" />
