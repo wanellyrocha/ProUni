@@ -33,3 +33,4 @@ Casos permissivos de sobreposição de bolsas:
 - bolsas suspensas com posterior renovação em período/ano diferentes;
 - bolsas canceladas com nova concessão posterior em período/ano diferentes.
 
+
