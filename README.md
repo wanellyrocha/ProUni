@@ -5,32 +5,34 @@
 </div>
 
 # ProUni - Programa Universidade para Todos
-## Bolsas concedidas e perfil dos beneficiários do ProUni
+## Análise de Bolsas Concedidas e Perfil dos Beneficiários do ProUni (2020)
 
-ProUni é o programa do Ministério da Educação, criado pela Lei nº 11.096, de 13 de janeiro de
-2005, que concede bolsas de estudo integrais e parciais de 50% em instituições privadas de
-educação superior, em cursos de graduação e sequenciais de formação específica, a estudantes
-brasileiros sem diploma de nível superior.
-Podem participar do Prouni os estudantes brasileiros que não possuam diploma de curso superior
-e que atendam a pelo menos uma das condições abaixo:
+Este projeto realiza uma análise exploratória dos dados do Programa Universidade para Todos (ProUni) referentes ao ano de 2020. O objetivo é compreender o perfil dos estudantes beneficiados e a distribuição das bolsas (integrais e parciais) em todo o Brasil.
 
-- ter cursado o ensino médio completo em escola da rede pública;
-- ter cursado o ensino médio completo em escola da rede privada, na condição de bolsista
-integral da própria escola;
-ter cursado o ensino médio parcialmente em escola da rede pública e parcialmente em
-escola da rede privada, na condição de bolsista integral da própria escola privada;
-- ser pessoa com deficiência;
-- ser professor da rede pública de ensino, no efetivo exercício do magistério da educação
-básica e integrando o quadro de pessoal permanente da instituição pública e concorrer a
-bolsas exclusivamente nos cursos de licenciatura. Nesses casos não há requisitos de
-renda.
+## Sobre o ProUni
+O ProUni é um programa do Ministério da Educação que concede bolsas de estudo (50% e 100%) em instituições privadas de ensino superior para estudantes brasileiros sem diploma de graduação, com base em critérios de renda e escolaridade (rede pública ou bolsistas integrais da rede privada).
 
-Para concorrer às bolsas integrais o candidato deve ter renda familiar bruta mensal de até um
-salário mínimo e meio por pessoa. Para as bolsas parciais de 50%, a renda familiar bruta mensal
-deve ser de até três salários mínimos por pessoa.
+## O Projeto
+Nesta análise, foram explorados dados para responder perguntas como:
+- Qual a proporção entre bolsas integrais e parciais?
+- Qual o perfil sociodemográfico dos beneficiários?
+- Quais os estados ou cursos com maior número de concessões?
 
-Casos permissivos de sobreposição de bolsas:
-- bolsas suspensas com posterior renovação em período/ano diferentes;
-- bolsas canceladas com nova concessão posterior em período/ano diferentes.
+## Tecnologias Utilizadas
+- **Linguagem:** Python
+- **Ambiente:** Google Colab
+- **Bibliotecas:** - Pandas (Manipulação de dados)
+  - Matplotlib/Seaborn (Visualização de dados)
+  - NumPy
+
+
+
+## Estrutura dos Dados
+Os dados originais contém informações sobre:
+- Tipo de bolsa (Integral/Parcial)
+- Raça/Cor e Sexo do beneficiário
+- Nome do curso e da Instituição de Ensino
+- Localização (UF e Município)
+
 
 
