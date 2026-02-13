@@ -17,6 +17,9 @@ Nesta análise, foram explorados dados para responder perguntas como:
 - Qual o perfil sociodemográfico dos beneficiários?
 - Quais os estados ou cursos com maior número de concessões?
 
+Caso os gráficos interativos não carreguem, visualize o projeto renderizado completo por este link:
+[Link para o Notebook renderizado](https://github.com/wanellyrocha/ProUni/blob/main/ProUni_2020.ipynbhttps://github.com/wanellyrocha/ProUni/blob/main/ProUni_2020.ipynb)
+
 ## Tecnologias Utilizadas
 - **Linguagem:** Python
 - **Ambiente:** Google Colab
