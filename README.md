@@ -3,7 +3,7 @@
 </div>
 
 # ProUni - Programa Universidade para Todos
-## Análise de Bolsas Concedidas e Perfil dos Beneficiários do ProUni (2020)
+## Análise de Bolsas Concedidas e Perfil das Pessoas Beneficiárias do ProUni (2020)
 
 Este projeto realiza uma análise exploratória dos dados do Programa Universidade para Todos (ProUni) referentes ao ano de 2020. O objetivo é compreender o perfil dos estudantes beneficiados e a distribuição das bolsas (integrais e parciais) em todo o Brasil.
 
